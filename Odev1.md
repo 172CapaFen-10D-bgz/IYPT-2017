@@ -4,18 +4,18 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-D   | Gizem YAŞA | 440
+10-D   | Zeynep Naz DİLER | 429
+10-D   | Burçak BALCI | 445
 
-#  (buraya proje başlığını yazınız)
+#  Balloon Airhorn
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+Deneyin amacı oluşturulan düzeneğin çıkardığı sesi etkileyen parametreleri araştırmaktır.
+Düzeneği oluşturmak için kullanılacak malzemeler farklı boyutlarda pet şişeler, pet şişenin yarıçapından küçük ancak daha uzun olmak koşuluyla farklı boyutlardaki pvc borular, balonlar, bant, paket lastiği, zımpara lastiği ve silikon yapıştırıcıdır.
+Öncelikle pet şişenin kapağına, kullanılacak pvc borunun geçebileceği büyüklükte bir delik açılır. Pet şişenin arkası kesilir ve pürüzlerin giderilmesi için zımparalanır. Balonun ağzı kesilir, diğer parça pet şişenin kesilen kısmına gerilir. Bant ve paket lastiği kullanılarak yerine sabitlenir. Pvc boru balona temas edecek şekilde pet şişenin kapağından geçirilir ve silikon yapıştırıcıyla sabitlenir. Son olarak petşişenin yanında birdelik açılır.
+Aynı düzenek farklı tüp uzunluk ve çağları, farklı pet şişe boyutları, farklı delik çapları ve farklı balon gerginlikleri kullanılarak tekrar oluşturulur. Her seferinde yalnızca bir parametre değiştirilerek oluşan seslerin frekansları ölçülür ve değiştirilen parametre ile arasındaki ilişki belirlenir. Rapor hazırlanarak deney tamamlanır.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+1. How to Make a Loud Air Horn (youtube, Dialed In DIY, Oct 3, 2015), https://youtu.be/
+2. Standing waves in open tubes | Mechanical waves and sound | Physics | Khan Academy (youtube, khanacademymedicine, Jul 1, 2014), https://youtu.be/BhQUW9s-R8M
+3. The Air horn (Membrane Reed) (Tim Escobedo, oocities.org), http://www.oocities.org/tpe123/folkurban/airhorn/index.html
+4. wikiHow: How to Make a Medicine Bottle Air Horn (wikihow.com), http://www.wikihow.com/Make-a-Medicine-Bottle-Air-Horn
